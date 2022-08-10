@@ -1,0 +1,8 @@
+.div{
+  position: relative;
+  height: 20vh;
+  width: 20vw;
+  background-color: red;
+  border: 2px solid black;
+
+}
